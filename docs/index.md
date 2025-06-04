@@ -16,9 +16,9 @@ Bem-vindo à documentação do projeto de Plataformas, Microsserviços e APIs fe
 - [Order Service](https://github.com/guikaidei/microservicos-order-service)
 - [Bottlenecks](https://github.com/guikaidei/microservicos-bottleneck)
 
-## Vídeos
-- [Individual]()
-- [Grupo]
+## Vídeo
+
+[Apresentação](https://youtu.be/XCD1pTsewiA)
 
 ## Execução
 
