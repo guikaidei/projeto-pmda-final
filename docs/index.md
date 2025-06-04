@@ -1,6 +1,6 @@
 # Documentação - Plataformas, Microsserviços e APIs
 
-Bem-vindo à documentação do projeto de Plataformas, Microsserviços e APIs feito por Nina Savoy de Sá
+Bem-vindo à documentação do projeto de Plataformas, Microsserviços e APIs feito por Guilherme Katayama Kaidei
 
 ## Repositórios
 

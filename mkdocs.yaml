@@ -1,8 +1,8 @@
 site_name: Plataformas, Microsserviços e APIs
-site_author: Nina Savoy de Sá
-site_url: https://ninasavoy.github.io/documentation
-repo_url: https://github.com/ninasavoy/docs
-repo_name: ninasavoy/docs
+site_author: Guilherme Katayama Kaidei
+site_url: https://guikaidei.github.io/documentation
+repo_url: https://github.com/guikaidei/projeto-pmda-final
+repo_name: guikaidei/projeto-pmda-final
 
 theme:
   name: material
@@ -74,9 +74,10 @@ plugins:
 nav:
   - Home: index.md
   - Individual: 
-    - Exchange API: ./exchange/main.md
     - Product API: ./product/main.md
     - Order API: ./order/main.md
     - Jenkins: ./jenkins/main.md
     - MiniKube: ./minikube/main.md
     - Bottlenecks: ./bottlenecks/main.md
+  - Grupo:
+    - Projeto: ./grupo/main.md
